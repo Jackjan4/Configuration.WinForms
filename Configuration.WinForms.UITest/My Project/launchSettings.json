@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UITest": {
+      "commandName": "Project",
+      "commandLineArgs": "--testArg=121314 --testOpt=\"C awd awd\""
+    }
+  }
+}
